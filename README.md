@@ -3,7 +3,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=usama9293" alt="usama9293" /></a> </p>
 
-- 🔭 I’m currently working on **Chat Application**
 
 - 🌱 I’m currently learning **Automation and Advance React js**
 
