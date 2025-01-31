@@ -4,11 +4,11 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=usama9293" alt="usama9293" /></a> </p>
 
 
-- 🌱 I’m currently learning **Automation and Advance React js**
+- 🌱 I’m currently learning **Automation**
 
 - 👨‍💻 All of my projects are available at [https://my-portifolio-sigma-one.vercel.app/](https://my-portifolio-sigma-one.vercel.app/)
 
-- 💬 Ask me about **NodeJS ,JavaScript, React, Automation**
+- 💬 Ask me about **NodeJS ,JavaScript, Automation**
 
 - 📫 How to reach me **usamaarshad9293@gmail.com**
 
