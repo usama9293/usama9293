@@ -8,15 +8,15 @@ I’m a passionate Software Developer at AskTech, building robust applications w
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=usama9293" alt="usama9293" /></a> </p>
 
 
-- 🌱 I’m currently learning **Automation**
+- 🌱 I’m currently learning **.NET**
 
 - 👨‍💻 All of my projects are available at [https://my-portifolio-sigma-one.vercel.app/](https://my-portifolio-sigma-one.vercel.app/)
 
-- 💬 Ask me about **NodeJS ,JavaScript, Automation**
+- 💬 Ask me about **NodeJS ,.NET, Automation**
 
 - 📫 How to reach me **usamaarshad9293@gmail.com**
 
-- 📄 Know about my experiences [file:///C:/Users/usama/Desktop/my/Usama%20Arshad%20Resume1.pdf](file:///C:/Users/usama/Desktop/my/Usama%20Arshad%20Resume1.pdf)
+📄 Know about my experiences file:///E:/my/Usama_Arshad_Resume.pdf
 
 - ⚡ Fun fact **I love exploring new technologies and continuously improving my skills.**
 
