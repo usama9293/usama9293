@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Usama Arshad</h1>
-<h3 align="center">I am a passionate Full Stack Developer with expertise in both front-end and back-end development. I specialize in building scalable, robust applications using the latest technologies. I also have a strong background in Quality Assurance, ensuring that the applications I develop meet the highest standards.</h3>
+<h3 align="center">Software Developer | .NET | Full Stack | QA-Focused
+
+I’m a passionate Software Developer at AskTech, building robust applications with .NET Core, .NET Framework, and SQL Server. With a strong foundation in full stack development and quality assurance, I ensure high-performance, reliable software using tools like Selenium, JMeter, and Cypress. I blend technical skills with real-world experience to deliver scalable, business-ready solutions.
+
+</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=usama9293" alt="usama9293" /></a> </p>
 
