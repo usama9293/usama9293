@@ -4,7 +4,6 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=usama9293&label=Profile%20views&color=0e75b6&style=flat" alt="usama9293" />
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=usama9293&theme=darkhub&no-frame=true&row=1&column=6" alt="usama9293" />
   </a>
 </p>
 
