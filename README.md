@@ -1,125 +1,166 @@
 <h1 align="center">Hi 👋, I'm Usama Arshad</h1>
-<h3 align="center">Full Stack Software Engineer | .NET Core | Node.js | React.js | Rawalpindi, Pakistan</h3>
+
+<h3 align="center">Software Engineer | Backend & Full-Stack Developer | .NET | Node.js | React</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=usama9293&label=Profile%20views&color=0e75b6&style=flat" alt="usama9293" />
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
+  <a href="https://portifolio-rho-ten-59.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=flat" alt="Portfolio" />
+  </a>
+  <a href="https://linkedin.com/in/usamaarshaddev">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="mailto:usamaarshad9293@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail" alt="Email" />
   </a>
 </p>
 
 ---
 
-### 👨‍💻 About Me
+## 👨‍💻 About Me
 
-I'm a passionate **Software Engineer** with **1.5+ years of professional experience** building scalable backend systems and full-stack web applications. I specialize in **ASP.NET Core**, **Node.js/NestJS**, and **React.js**, with strong expertise in database optimization, clean architecture, and REST API development.
+I'm a **Software Engineer** with 1.5+ years of professional experience building backend systems and full-stack web applications.
 
-I have delivered production-grade solutions for **government and enterprise clients**, including:
-- 🏛️ **Suthra Punjab** — Live Government Waste Management System (Punjab, Pakistan)
-- 🚗 **VTMS** — Real-Time GPS Vehicle Tracking System with automated alerting
-- 📋 **CRM** — Enterprise Complaint Management System
+My primary experience includes:
 
----
+- **C# / .NET / ASP.NET Core**
+- **Node.js / NestJS**
+- **React.js / TypeScript / JavaScript**
+- **SQL Server / MySQL / PostgreSQL / MongoDB**
+- **REST APIs**
+- **Authentication & Authorization**
+- **Clean Architecture**
+- **Docker & Azure DevOps**
 
-### 🔭 Currently Working On
-- 🔗 URL Shortener — .NET Clean Architecture + React + PostgreSQL + Redis + RabbitMQ
-- 🌐 Personal Portfolio — [portifolio-rho-ten-59.vercel.app](https://portifolio-rho-ten-59.vercel.app)
+I've worked on enterprise and government solutions, including real-time tracking systems and database-driven applications.
 
-### 🌱 Currently Learning
-- PostgreSQL & Redis
-- RabbitMQ & Microservices Architecture
-- Clean Architecture with .NET
-
-### 💬 Ask Me About
-- ASP.NET Core, Node.js, NestJS, React.js
-- REST API Design & JWT Authentication
-- SQL Server, MySQL, MongoDB optimization
-- Docker & Azure DevOps
-
-### 📫 How to Reach Me
-**usamaarshad9293@gmail.com** | **+92 342 4029990**
-
-### 📄 My Resume
-[Download CV](https://portifolio-rho-ten-59.vercel.app)
-
-### ⚡ Fun Fact
-I love exploring new technologies and I apply clean architecture principles to everything I build!
+I'm currently expanding my knowledge in **Linux, networking, and cybersecurity** while continuing to build practical software projects.
 
 ---
 
-### 🌐 Connect With Me
+## 🚀 Currently Building
+
+### 🔐 VaultX — Secure Password Manager
+
+A personal password manager project focused on secure software architecture and practical cybersecurity concepts.
+
+Currently developing:
+
+- Authentication and authorization
+- Vault and credential management
+- Clean Architecture
+- Secure data handling
+- Backend API
+- Automated testing
+- Frontend application
+
+**Tech:** C# | .NET | ASP.NET Core | PostgreSQL | Docker
+
+---
+
+## 🌱 Currently Learning
+
+- Linux
+- Computer Networking
+- Cybersecurity fundamentals
+- Network security
+- Nmap & Wireshark
+- Secure application development
+
+---
+
+## 💼 Professional Experience
+
+### Software Engineer — CodingKey
+**Nov 2025 – Apr 2026 | Islamabad, Pakistan**
+
+- Developed RESTful APIs and backend services using ASP.NET Core, C#, Node.js, and NestJS.
+- Designed MySQL database schemas and queries for application features.
+- Implemented JWT-based authentication and role-based authorization.
+- Applied Clean Architecture principles while collaborating with frontend and QA teams.
+
+### Software Engineer — AskTech (Pvt) Ltd.
+**Mar 2025 – Nov 2025 | Rawalpindi, Pakistan**
+
+- Developed ASP.NET Core Web APIs and SQL Server solutions for enterprise applications.
+- Worked on the Suthra Punjab Waste Management System.
+- Developed a real-time GPS vehicle tracking system with POI detection and automated alerts.
+- Optimized SQL queries and integrated third-party APIs.
+
+---
+
+## 🛠️ Tech Stack
+
+### Backend
 
 <p align="left">
-<a href="https://linkedin.com/in/usamaarshaddev" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-</a>
-<a href="mailto:usamaarshad9293@gmail.com" target="blank">
-  <img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="Email" height="30" width="40" />
-</a>
-<a href="https://portifolio-rho-ten-59.vercel.app" target="blank">
-  <img align="center" src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" alt="Portfolio" height="30" width="40" />
-</a>
+<a href="https://dotnet.microsoft.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" width="40" height="40" alt=".NET"/></a>
+<a href="https://learn.microsoft.com/dotnet/csharp/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40" height="40" alt="C#"/></a>
+<a href="https://nodejs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40" alt="Node.js"/></a>
+<a href="https://nestjs.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg" width="40" height="40" alt="NestJS"/></a>
+</p>
+
+### Frontend
+
+<p align="left">
+<a href="https://react.dev/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40" alt="React"/></a>
+<a href="https://www.typescriptlang.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3"/></a>
+</p>
+
+### Databases
+
+<p align="left">
+<a href="https://www.microsoft.com/sql-server"><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="40" height="40" alt="SQL Server"/></a>
+<a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" alt="MySQL"/></a>
+<a href="https://www.postgresql.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40" alt="PostgreSQL"/></a>
+<a href="https://www.mongodb.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40" alt="MongoDB"/></a>
+</p>
+
+### DevOps & Tools
+
+<p align="left">
+<a href="https://www.docker.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40" alt="Docker"/></a>
+<a href="https://azure.microsoft.com/"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="40" height="40" alt="Azure"/></a>
+<a href="https://git-scm.com/"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40" alt="Git"/></a>
 </p>
 
 ---
 
-### 🛠️ Languages & Tools
+## 📌 Featured Projects
 
-#### Backend
-<p align="left">
-<a href="https://dotnet.microsoft.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" alt="dotnetcore" width="40" height="40"/></a>
-<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/></a>
-<a href="https://nodejs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a>
-<a href="https://expressjs.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/></a>
-</p>
+### 🔐 VaultX
+Secure password manager focused on secure architecture, authentication, encrypted data handling, and practical cybersecurity concepts.
 
-#### Frontend
-<p align="left">
-<a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
-<a href="https://nextjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/></a>
-<a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
-<a href="https://tailwindcss.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/></a>
-</p>
+**Tech:** C# | .NET | ASP.NET Core | PostgreSQL | Docker
 
-#### Databases
-<p align="left">
-<a href="https://www.microsoft.com/en-us/sql-server" target="_blank"><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="sqlserver" width="40" height="40"/></a>
-<a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
-<a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a>
-<a href="https://www.postgresql.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a>
-<a href="https://redis.io" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/></a>
-</p>
+### 🏥 MedLine Rural
+Web-based medical supply and delivery management system for rural and remote clinics.
 
-#### DevOps & Tools
-<p align="left">
-<a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a>
-<a href="https://azure.microsoft.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/></a>
-<a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
-<a href="https://postman.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a>
-<a href="https://www.rabbitmq.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitmq" width="40" height="40"/></a>
-</p>
+**Tech:** PHP | MySQL | JavaScript
+
+### 📊 Sales Forecasting Tool
+E-commerce sales forecasting application integrating machine learning models with a Node.js REST API and React dashboard.
+
+**Tech:** Python | Node.js | React.js
+
+### 🌐 ScrollSafeApp
+Social media web application with user profiles, posts, likes, comments, and content exploration.
+
+**Tech:** React.js | Node.js | MongoDB
 
 ---
 
-### 📊 GitHub Stats
+## 📫 Contact
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=usama9293&show_icons=true&theme=dark&locale=en" alt="usama9293" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=usama9293&show_icons=true&theme=dark&locale=en&layout=compact" alt="usama9293" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=usama9293&theme=dark" alt="usama9293" />
-</p>
+- 📧 **Email:** usamaarshad9293@gmail.com
+- 💼 **LinkedIn:** [linkedin.com/in/usamaarshaddev](https://linkedin.com/in/usamaarshaddev)
+- 🌐 **Portfolio:** [portifolio-rho-ten-59.vercel.app](https://portifolio-rho-ten-59.vercel.app)
+- 📄 **Resume:** [View Resume](https://portifolio-rho-ten-59.vercel.app/cv.pdf)
 
 ---
 
-### 🏆 Professional Highlights
-- 🏛️ Led backend of **Suthra Punjab** — live government system reducing manual reporting by ~30%
-- 🚗 Built **real-time GPS tracking system** with automated alerting & POI proximity logic
-- ⚡ Optimized MySQL/SQL Server schemas improving query times by **up to 40%**
-- 🔐 Implemented JWT auth & RBAC reducing bug reports by **~20%**
-- 🌍 Delivered solutions for **3+ enterprise clients** across government & private sectors
+<p align="center">
+  <i>Building software, learning continuously, and improving one project at a time.</i>
+</p>
